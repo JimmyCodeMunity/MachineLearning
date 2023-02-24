@@ -1,1 +1,1 @@
-Random Forest Algorithm
+Random Forest is a machine learning algorithm used for both classification and regression tasks. It is an ensemble method that builds multiple decision trees and combines their outputs to make predictions
