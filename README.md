@@ -1,0 +1,1 @@
+Exploratory data analysis (EDA) is a crucial step in any data analysis project, including those involving logistic regression. EDA involves visually and statistically examining the data to identify patterns, relationships, and anomalies that may be relevant to the analysis.
