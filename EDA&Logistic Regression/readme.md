@@ -10,5 +10,5 @@ Where Y is the dependent variable, X is the independent variable, β0 is the int
 
 The goal of linear regression is to estimate the values of β0 and β1 that minimize the sum of squared errors (SSE) between the predicted values of Y and the actual values of Y.
 
-Linear regression has many applications in various fields, such as finance, economics, engineering, social sciences, and more. It is a powerful tool for predicting outcomes and understanding the relationship between variables.
+Linear regression has many applications in various fields, such as finance, economics, engineering, social sciences, and more. It is a powerful tool for predicting outcomes and understanding the relationship between variables
 
